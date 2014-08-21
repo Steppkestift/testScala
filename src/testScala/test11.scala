@@ -1,5 +1,7 @@
 package testScala
 
-class test11 {
-
-}
+object HelloWorld {
+    def main(args: Array[String]) {
+      println("Hello, world!")
+    }
+  }
